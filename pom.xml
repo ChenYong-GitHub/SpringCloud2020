@@ -21,6 +21,7 @@
         <module>cloud-api-commons</module>
         <module>cloud-consumer-order</module>
         <module>cloud-eureka-server</module>
+        <module>cloud-consumer-feign-order</module>
     </modules>
 
     <!--统一管理jar包版本-->
