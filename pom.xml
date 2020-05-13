@@ -25,6 +25,10 @@
         <module>cloud-provider-payment-hystrix</module>
         <module>cloud-consumer-order-feign-hystrix</module>
         <module>cloud-gateway-gateway</module>
+        <module>cloud-config-center</module>
+        <module>cloud-config-client</module>
+        <module>cloud-stream-rabbitmq-provider</module>
+        <module>cloud-stream-rabbitmq-consumer</module>
     </modules>
 
     <!--统一管理jar包版本-->
