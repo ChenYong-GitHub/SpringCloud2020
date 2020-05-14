@@ -29,6 +29,8 @@
         <module>cloud-config-client</module>
         <module>cloud-stream-rabbitmq-provider</module>
         <module>cloud-stream-rabbitmq-consumer</module>
+        <module>cloud-alibaba-nacos-provider-payment</module>
+        <module>cloud-alibaba-nacos-consumer-order</module>
     </modules>
 
     <!--统一管理jar包版本-->
