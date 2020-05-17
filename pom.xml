@@ -32,6 +32,8 @@
         <module>cloud-alibaba-nacos-provider-payment</module>
         <module>cloud-alibaba-nacos-consumer-order</module>
         <module>cloud-alibaba-nacos-config</module>
+        <module>cloud-alibaba-sentinel-service</module>
+        <module>cloud-alibaba-nacos-sentinel-feign-order</module>
     </modules>
 
     <!--统一管理jar包版本-->
