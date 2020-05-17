@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 import javax.annotation.Resource;
 
 /**
- * @auther zzyy
+ * @auther ChenYong
  * @create 2020-02-25 16:05
  */
 @RestController
